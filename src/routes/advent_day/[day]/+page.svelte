@@ -12,7 +12,7 @@
 		id="rick-roll"
 		width="560"
 		height="315"
-		src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0&autoplay=1&loop=1"
+		src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=1&autoplay=1&loop=1"
 		title="YouTube video player"
 		frameborder="0"
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -43,6 +43,7 @@
 		Two hints<br />
 		And a song for the Christmas tree<br />
 	</p>
+	<p style="font-style: italic;">(Hahaha! You might have to finish the song, buddy. 😉)</p>
 {:else if $page.params.day == '5'}
 	<p>
 		On the fifth day of Christmas<br />
