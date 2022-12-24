@@ -2,6 +2,8 @@
 	import { page } from '$app/stores';
 </script>
 
+<h1>🎄 Ken's Christmas Puzzle 2022 👾</h1>
+
 {#if $page.params.day == '1'}
 	<p>
 		On the first day of Christmas<br />My good friends brought to me<br />A song for the Christmas
@@ -152,4 +154,11 @@
 		Two hints<br />
 		And a song for the Christmas tree<br />
 	</p>
+	<p style="font-style: italic;">
+		(Hey! You made it. I commend you on your patience.<br />Next hint: What is the answer to life
+		the universe and everything?
+		<span style="font-style: normal; cursor: pointer;" title="Ask Google">ℹ️</span>)
+	</p>
+{:else if $page.params.day == '42'}
+	<a href="/merry-happy-christmas-birthday">Merry Happy Christmas Birthday</a>
 {/if}
