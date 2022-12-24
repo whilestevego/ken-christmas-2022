@@ -12,7 +12,7 @@
 	Where do developers hangout in browsers? <span
 		style="font-style: normal; cursor: pointer;"
 		title="You know... The developer console.">ℹ️</span
-	>)
+	>
 </p>
 
 <a hidden href="/advent_day/1">On the first day of Christmas, My good friends brought to me...</a>
