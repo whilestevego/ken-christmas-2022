@@ -8,4 +8,4 @@
 
 <p>Where do developers hangout in browsers?</p>
 
-<a hidden href="/advent/1">On the first day of Christmas, My good friends brought to me...</a>
+<a hidden href="/advent_day/1">On the first day of Christmas, My good friends brought to me...</a>
